@@ -23,4 +23,4 @@ This is a Flask web application that can be used to create a blog! The applicati
 <p align="middle"><img src="images/newpost.JPG" width="75%" height="75%"></p>
 
 4- Edit Post Page
-<p align="middle"><img src="images/editposts.JPG" width="75%" height="75%"></p>
+<p align="middle"><img src="images/editpost.JPG" width="75%" height="75%"></p>

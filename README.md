@@ -10,7 +10,7 @@ This is a Flask web application that can be used to create a blog! The applicati
 # User Instructions
 1- To use or test out the application yourself you will first need to download all of the files in the 'Blog WebApp' folder.<br />
 2- You will need to create a Python environment and install flask and flask_sqlalchemy so that the application can run.<br />
-3- Run the application in the terminal and open the link in your browser. The link should look something like 'http://localhost:5000/'.
+3- Run the application in the terminal and open the displayed local host in your browser. The localhost should look something like 'http://localhost:5000/'.
 4- Once running you test you can test out the application!
 # Application Pictures
 1- Home Page
